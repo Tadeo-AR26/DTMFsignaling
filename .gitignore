@@ -11,6 +11,7 @@
 
 # Local History for Visual Studio Code
 .history/
+audios/
 
 # Built Visual Studio Code Extensions
 *.vsix
