@@ -18,6 +18,7 @@ dtmfMap = {
     (941, 1209): '*', (941, 1336): '0', (941, 1477): '#', (941, 1633): 'D'
 }
 
+
 # Algoritmo de Goertzel
 def goertzel(samples, sample_rate, target_freq):
     N = len(samples)

@@ -1,4 +1,4 @@
-# DTMF Decoder & Encoder (Goertzel Algorithm) 📞
+# DTMF Decoder (Goertzel Algorithm) 📞
 
 Proyecto final para la asignatura Computación Científica que implementa un sistema de procesamiento digital de señales (DSP) **generación y decodificación de tonos telefónicos (DTMF)**.
 
@@ -16,6 +16,6 @@ Utiliza el **Algoritmo de Goertzel** para lograr una detección de frecuencias e
 Clona el repositorio e instala las dependencias necesarias:
 
 ```bash
-git clone [https://github.com/Tadeo-AR26/DTMFsignaling](https://github.com/Tadeo-AR26/DTMFsignaling)
-cd tu_repo
+git clone https://github.com/Tadeo-AR26/DTMFsignaling.git
+cd DTMFsignaling
 pip install numpy matplotlib scipy
